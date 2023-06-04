@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuicidePro2", "SuicidePro2\SuicidePro2.csproj", "{F06219F0-ABDC-470D-9599-C6F8A1629F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06219F0-ABDC-470D-9599-C6F8A1629F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06219F0-ABDC-470D-9599-C6F8A1629F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06219F0-ABDC-470D-9599-C6F8A1629F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06219F0-ABDC-470D-9599-C6F8A1629F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A750A750-FE78-4159-BCBB-F0A0C66E8102}
+	EndGlobalSection
+EndGlobal
